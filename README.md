@@ -1,4 +1,4 @@
-# Agile Biomedical Information Retrieval Using Few-Shot and Zero-Shot Prompt Engineering
+# Agile Biomedical Information Retrieval in Rapidly Evolving Literature: A Comparative Evaluation of Dense Retrieval Models and Prompt-Based Large Language Models
 
 This repository contains the implementation and experimental artifacts for the **CENG543 Term Project (2025–2026)** conducted by **Can Deniz Yetkin** at **İzmir Institute of Technology (IZTECH)**.
 
