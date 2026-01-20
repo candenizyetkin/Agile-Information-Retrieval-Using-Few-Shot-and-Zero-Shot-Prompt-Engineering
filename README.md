@@ -73,6 +73,8 @@ This experiment evaluates **retrieval-only performance**, independent of answer 
 **Evaluation Metrics**
 - **Recall@5**
 - **Recall@10**
+- **F1@5** (Added later to the paper but not to the code)
+- **F1@10** (Added later to the paper but not to the code) 
 
 **Key Observation**  
 SapBERT achieves **near-saturated retrieval performance**, highlighting the importance of retrieval-specific fine-tuning and explicit modeling of biomedical synonymy.
